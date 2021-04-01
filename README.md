@@ -1,2 +1,1 @@
-# proba
-exp
+print(0)
